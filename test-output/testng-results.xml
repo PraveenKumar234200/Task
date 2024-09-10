@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-10T22:32:58 IST" name="Default suite" finished-at="2024-09-10T22:33:37 IST" duration-ms="38951">
+    <groups>
+    </groups>
+    <test started-at="2024-09-10T22:32:58 IST" name="Default test" finished-at="2024-09-10T22:33:37 IST" duration-ms="38951">
+      <class name="org.com.Task">
+        <test-method signature="LoginWithValidCredentials()[pri:1, instance:org.com.Task@22a637e7]" started-at="2024-09-10T22:32:58 IST" name="LoginWithValidCredentials" finished-at="2024-09-10T22:33:08 IST" duration-ms="10109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithValidCredentials -->
+        <test-method signature="LoginWithInValidCredentials()[pri:2, instance:org.com.Task@22a637e7]" started-at="2024-09-10T22:33:08 IST" name="LoginWithInValidCredentials" finished-at="2024-09-10T22:33:21 IST" duration-ms="13321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithInValidCredentials -->
+        <test-method signature="LoginWithEmptyField()[pri:3, instance:org.com.Task@22a637e7]" started-at="2024-09-10T22:33:21 IST" name="LoginWithEmptyField" finished-at="2024-09-10T22:33:28 IST" duration-ms="6393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithEmptyField -->
+        <test-method signature="LoginWithSpecialCharacters()[pri:4, instance:org.com.Task@22a637e7]" started-at="2024-09-10T22:33:28 IST" name="LoginWithSpecialCharacters" finished-at="2024-09-10T22:33:37 IST" duration-ms="9026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithSpecialCharacters -->
+      </class> <!-- org.com.Task -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
